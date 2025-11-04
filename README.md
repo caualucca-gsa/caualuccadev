@@ -1,6 +1,9 @@
 🙋‍♂️ Sobre mim  
-• Estudante de Engenharia de Software - Unijorge 
+
+• Estudante de Engenharia de Software - Unijorge
+
 • Soteropolitano apaixonado por Salvador
+
 • Contato: caua.gsa@gmail.com
 
 Iniciando minha jornada na área de dados, motivado pelo desejo de transformar
