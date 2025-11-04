@@ -1,16 +1,22 @@
 🙋‍♂️ Sobre mim  
-Desenvolvedor front-end em formação, estudante de Engenharia de Software na Unijorge | Salvador - BA.  
-Busco integrar o que já sei com o que estou aprendendo, criando experiências digitais acessíveis, úteis e com personalidade.
+• Estudante de Engenharia de Software - Unijorge 
+• Soteropolitano apaixonado por Salvador
+• Contato: caua.gsa@gmail.com
 
---------------------------------------------------
+Iniciando minha jornada na área de dados, motivado pelo desejo de transformar
+a realidade da minha cidade utilizando informações de forma inteligente nas áreas de 
+segurança pública e educação. Quero que, um dia, minhas soluções façam parte do alicerce
+que ajude a melhorar a qualidade de vida de outros soteropolitanos como eu.
+
+----------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias
 
-Conhecimentos atuais  
-HTML | CSS | Tailwind | Vue.js | JavaScript | Git | GitHub | Figma | UI/UX básico | Acessibilidade | Responsividade
+Conhecimentos atuais
+- Nível Iniciante: Python | Excel
 
 Estudando agora  
-Tailwind CSS | Vue | Boas práticas | Automação | Testes | Arquitetura de código
+-  Aprofundando conhecimentos em Python e Engenharia de Dados
 
--------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
